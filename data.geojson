@@ -1,24 +1,27 @@
-[
-  {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-75.1636,39.9524]
-  },
-  "properties": {
-    "name": "The War on Drugs",
-    "year": 2005
-  }
-},
-  {
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [-75.2636,39.9524]
-  },
-  "properties": {
-    "name": "Thse War on Drugs",
-    "year": 2005
-  }
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.591796875,
+          25.3241665257384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.87890625,
+          32.47269502206151
+        ]
+      }
+    }
+  ]
 }
-]
